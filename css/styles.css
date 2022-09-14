@@ -21,7 +21,7 @@ background primary: #F5F5F5
 }
 
 body {
-  background-color: var(--background-primary);
+  background-color: var(--white-color);
   color: var(--primary-color);
   font-family: "Roboto", sans-serif;
 
@@ -165,7 +165,7 @@ body {
   color: var(--accent);
 }
 .portfolio {
-  background-color: var(--background-primary);
+  background-color: var(--white-color);
 }
 .portfolio .filter-button {
   font-family: inherit;
@@ -180,9 +180,7 @@ body {
   background-color: var(--accent);
   color: var(--white-color);
 }
-.portfolio-card {
-  background-color: var(--white-color);
-}
+
 .portfolio-card .title {
   color: var(--primary-color);
   font-weight: 700;
